@@ -40,6 +40,7 @@ color: #4d5ae5;
 .mailto:focus {
     color: #404bbf;
 }
+
 .tel {
     line-height: 1.5;
         letter-spacing: 0.02em;
@@ -49,6 +50,8 @@ color: #4d5ae5;
 .tel:focus {
     color: #404bbf;
 }
+
+
 .section-button {
     background-color: #2e2f42;
 }
@@ -108,4 +111,15 @@ color: #4d5ae5;
 .card-bc {
     background-color: #FFFFFF;
 
+}
+.page-foot {
+    background-color: #2e2f42;
+}
+.color-logo-foot {
+    color: #f4f4fd;
+}
+.title-foot {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
